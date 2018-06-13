@@ -1,4 +1,7 @@
+# default
 [![CircleCI](https://circleci.com/gh/gobori/damage-calc-4005-v2.svg?style=svg)](https://circleci.com/gh/gobori/damage-calc-4005-v2)
+# master-2017
+[![CircleCI](https://circleci.com/gh/gobori/damage-calc-4005-v2/tree/master-2017.svg?style=svg)](https://circleci.com/gh/gobori/damage-calc-4005-v2/tree/master-2017)
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
